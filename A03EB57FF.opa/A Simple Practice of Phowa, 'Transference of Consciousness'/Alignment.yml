@@ -1,0 +1,16 @@
+segment_sources:
+  P38EC87E3:
+    type: origin_type
+    relation: translation
+    language: en
+  P727D67DF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  706a965ebac646c5b3660ea4f0d603d3:
+    P38EC87E3: d57643f77a9b48a994503dff0344b983
+    P727D67DF: baf0eefac7564555a3abc0562e9a6a39
+  4693787c96914be7b00a96af0ef65f5e:
+    P38EC87E3: 648d118b31804ae0be78f6f8fad1d576
+    P727D67DF: 348b1f1a0929421aa9cfb7dc2b7af9b7
